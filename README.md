@@ -188,5 +188,5 @@ This project was collaboratively engineered by **Group 5**:
 ---
 
 <p align="center">
-  <i>Developed with ❤️ for the Computer Graphics Course at American International University-Bangladesh (AIUB)</i>
+  <i>Computer Graphics Course at American International University-Bangladesh (AIUB)</i>
 </p>
