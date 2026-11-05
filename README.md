@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34438229/README.md)
 # ✈️ Flight to Rescue: An Aviation Emergency Scenario & Rescue Mission
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -147,7 +146,6 @@ Flight-to-Rescue-OpenGL/
 │   ├── airplane-fly-by-02.wav
 │   └── Rescue.wav
 ├── Final Project Graphics.cpp       # Complete C++ OpenGL/GLUT source code
-├── Project_Report.pdf               # Final Academic Project Report
 └── README.md                        # Project Documentation
 ```
 
@@ -184,7 +182,7 @@ This project was collaboratively engineered by **Group 5**:
 | 1 | **Shahadat Hossain** | `23-51341-1` | **Cover Page, Instructions UI & Scene 1:** Airport Terminal, Skyline, Ground Vehicles & Taxiing |
 | 2 | **Niha Karmokar** | `24-56028-1` | **Scene 2:** Runway Perspective, Control Tower & Aircraft Take-Off Physics |
 | 3 | **Zahin Tahiat Annesha** | `23-50414-1` | **Scene 3:** High-Altitude Cruising & Multi-Layer Parallax Cloud/Bird Animation |
-| 4 | **Mir Moahtasim Billah Soykot** | `23-50414-1` | **Scene 4 & System Integration:** Emergency Water Ditching Simulation & Master Code Merging |
+| 4 | **Mir Moahtasim Billah Soykot** | `23-5442-1` | **Scene 4 & System Integration:** Emergency Water Ditching Simulation & Master Code Merging |
 | 5 | **Hamidul Islam** | `23-50447-1` | **Scene 5:** Maritime Rescue Operation, Day/Night Cycle & Wave/Boat Mechanics |
 
 ---
