@@ -138,7 +138,6 @@ The simulation walks the user through a complete 5-stage aviation narrative, dem
 
 ## 📸 Project Screenshots & Visual Walkthrough
 
-> 📌 *Place your screenshots inside an `assets/` folder in the repository root with the filenames below so they render automatically on GitHub.*
 
 ### 📋 Front Cover & Instructions UI
 
