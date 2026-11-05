@@ -259,7 +259,7 @@ g++ "Final Project Graphics.cpp" -o FlightToRescue.exe -lfreeglut -lopengl32 -lg
 | **Shahadat Hossain** | `23-51341-1` | **Cover Page, Instructions UI & Scene 1:** Airport Terminal, Urban Skyline, Ground Vehicles & Runway Taxiing |
 | **Niha Karmokar** | `24-56028-1` | **Scene 2:** Runway Perspective, Control Tower, Sine-Wave Bird Flapping & Aircraft Take-Off Physics |
 | **Zahin Tahiat Annesha** | `23-50414-1` | **Scene 3:** High-Altitude Cruising & Multi-Layer Parallax Cloud/Bird Animation |
-| **Mir Moahtasim Billah Soykot** | `23-50414-1` | **Scene 4 & System Integration:** Emergency Water Ditching Simulation & Master Multi-Scene Code Merging |
+| **Mir Moahtasim Billah Soykot** | `23-50442-1` | **Scene 4 & System Integration:** Emergency Water Ditching Simulation & Master Multi-Scene Code Merging |
 | **Hamidul Islam** | `23-50447-1` | **Scene 5:** Maritime Rescue Operation, Day/Night Environment Toggle, Distress Beacon & Boat Mechanics |
 
 ---
